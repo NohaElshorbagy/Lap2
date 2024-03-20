@@ -12,5 +12,10 @@ namespace ConsoleApp9
 		{
 			Console.WriteLine("HelloITI");
 		}
+
+		public static void printHelloGit()
+		{
+			Console.WriteLine("printHelloGit");
+		}
 	}
 }
