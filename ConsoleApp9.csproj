@@ -46,7 +46,7 @@
     <Compile Include="HelloITI.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="HelloWorld.cs" />
+    <Compile Include="HelloJava.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

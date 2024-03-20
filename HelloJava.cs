@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp9
 {
 
-	internal class HelloWorld
+	internal class HelloJava
 	{
 		public static void printHelloWorld()
 		{
