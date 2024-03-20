@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp9
 {
-	internal class test
+
+	internal class HelloWorld
 	{
+		public static void printHelloWorld()
+		{
+			Console.WriteLine("HelloWorld");
+		}
 	}
 }
