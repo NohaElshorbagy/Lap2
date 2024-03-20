@@ -21,5 +21,9 @@ namespace ConsoleApp9
 		{
 			Console.WriteLine("try");
 		}
+		public static void printbranch()
+		{
+			Console.WriteLine("branch");
+		}
 	}
 }
