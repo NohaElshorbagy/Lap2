@@ -18,5 +18,11 @@ namespace ConsoleApp9
         {
             Console.WriteLine("HelloWorld");
         }
-    }
+
+		public static void printHelloWorldfive()
+		{
+			Console.WriteLine("HelloWorld");
+		}
+
+	}
 }
