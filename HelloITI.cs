@@ -17,5 +17,9 @@ namespace ConsoleApp9
 		{
 			Console.WriteLine("printHelloGit");
 		}
+		public static void printtry()
+		{
+			Console.WriteLine("try");
+		}
 	}
 }
